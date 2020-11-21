@@ -1,0 +1,201 @@
+<Settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+	<!-- ***************************************************** -->
+	<!-- 劫匪*****************************(**************** -->
+	<!-- ***************************************************** -->
+	
+	<!-- 最低限度的近战战士| 不要设置为低于0 -->
+	<looters_minimum_melee>4</looters_minimum_melee>
+	
+	<!-- 近战战士的最大人数| 不要设置为低于0 -->
+	<looters_maximum_melee>24</looters_maximum_melee>
+	
+	<!-- 远程射手的最小数量 不要设置为低于0 -->
+	<looters_minimum_ranged>0</looters_minimum_ranged>
+	
+	<!-- 最大远程射手数量| 不要设置为低于0 -->
+	<looters_maximum_ranged>9</looters_maximum_ranged>
+	
+	<!-- 女性百分比 | 1 = 100% / 0.5 = 50% -->
+	<looters_female_percentage>0.2</looters_female_percentage>
+	
+	<!-- ***************************************************** -->
+	<!-- 海寇****************************************** -->
+	<!-- ***************************************************** -->
+	
+	<!-- 近战战士的最低人数（第一级）| 不要设置为低于0 -->
+	<sea_raiders_minimum_melee_level1>3</sea_raiders_minimum_melee_level1>
+	
+	<!-- 最大近战战士数量（第一级）| 不要设置为低于0 -->
+	<sea_raiders_maximum_melee_level1>19</sea_raiders_maximum_melee_level1>
+	
+	<!-- 近战战士的最低人数（第二级）| 不要设置为低于0 -->
+	<sea_raiders_minimum_melee_level2>1</sea_raiders_minimum_melee_level2>
+	
+	<!-- 近战战士的最大数量（第二级）| 不要设置为低于0 -->
+	<sea_raiders_maximum_melee_level2>12</sea_raiders_maximum_melee_level2>
+	
+	<!-- 近战战士的最低人数（第二级）| 不要设置为低于0 -->
+	<sea_raiders_minimum_melee_level2>1</sea_raiders_minimum_melee_level2>
+	
+	<!-- 近战战士的最大数量（第二级）| 不要设置为低于0 -->
+	<sea_raiders_maximum_melee_level2>12</sea_raiders_maximum_melee_level2>
+	
+	<!-- 近战战士的最低人数（三级）| 不要设置为低于0 -->
+	<sea_raiders_minimum_melee_level3>0</sea_raiders_minimum_melee_level3>
+	
+	<!-- 近战战士的最大数量（第三级）| 不要设置为低于0 -->
+	<sea_raiders_maximum_melee_level3>2</sea_raiders_maximum_melee_level3>
+	
+	<!-- 远程射手的最小数量 不要设置为低于0 -->
+	<sea_raiders_minimum_ranged>0</sea_raiders_minimum_ranged>
+	
+	<!-- 最大远程射手数量| 不要设置为低于0 -->
+	<sea_raiders_maximum_ranged>7</sea_raiders_maximum_ranged>
+	
+	<!-- 女性百分比 | 1 = 100% / 0.5 = 50% -->
+	<sea_raiders_female_percentage>0.3</sea_raiders_female_percentage>
+	
+	<!-- ***************************************************** -->
+	<!-- 山贼************************************* -->
+	<!-- ***************************************************** -->
+	
+	<!-- 近战战士的最低人数（第一级）| 不要设置为低于0 -->
+	<highlanders_minimum_melee_level1>6</highlanders_minimum_melee_level1>
+	
+	<!-- 最大近战战士数量（第一级）| 不要设置为低于0 -->
+	<highlanders_maximum_melee_level1>38</highlanders_maximum_melee_level1>
+	
+	<!-- 近战战士的最低人数（第二级）| 不要设置为低于0 -->
+	<highlanders_minimum_melee_level2>2</highlanders_minimum_melee_level2>
+	
+	<!-- 近战战士的最大数量（第二级）| 不要设置为低于0 -->
+	<highlanders_maximum_melee_level2>21</highlanders_maximum_melee_level2>
+	
+	<!-- 远程射手的最小数量（第一级）| 不要设置为低于0 -->
+	<highlanders_minimum_ranged_level1>1</highlanders_minimum_ranged_level1>
+	
+	<!-- 最大远程射手数量（第一级）| 不要设置为低于0 -->
+	<highlanders_maximum_ranged_level1>17</highlanders_maximum_ranged_level1>
+	
+	<!-- 远程射手的最小数量（第二级）| 不要设置为低于0 -->
+	<highlanders_minimum_ranged_level2>0</highlanders_minimum_ranged_level2>
+	
+	<!-- 最大远程射手数量（第二级）| 不要设置为低于0 -->
+	<highlanders_maximum_ranged_level2>5</highlanders_maximum_ranged_level2>
+	
+	<!-- 远程射手的最小数量（三级）| 不要设置为低于0 -->
+	<highlanders_minimum_ranged_level3>0</highlanders_minimum_ranged_level3>
+	
+	<!-- 远程战士的最大数量（三级）| 不要设置为低于0 -->
+	<highlanders_maximum_ranged_level3>3</highlanders_maximum_ranged_level3>
+	
+	<!-- 最小骑兵人数| 不要设置为低于0 -->
+	<highlanders_minimum_cavalry>0</highlanders_minimum_cavalry>
+	
+	<!-- 最大骑兵人数| 不要设置为低于0 -->
+	<highlanders_maximum_cavalry>8</highlanders_maximum_cavalry>
+	
+	<!-- 女性百分比 | 1 = 100% / 0.5 = 50% -->
+	<highlanders_female_percentage>0.4</highlanders_female_percentage>
+	
+	<!-- ***************************************************** -->
+	<!-- 森林强盗*************************************** -->
+	<!-- ***************************************************** -->
+	
+	<!-- 近战战士的最低人数（第一级）| 不要设置为低于0 -->
+	<forest_bandits_minimum_melee_level1>0</forest_bandits_minimum_melee_level1>
+	
+	<!-- 最大近战战士人数（第一级）| 不要设置为低于0 -->
+	<forest_bandits_maximum_melee_level1>6</forest_bandits_maximum_melee_level1>
+	
+	<!-- 近战战士的最低人数（第二级）| 不要设置为低于0 -->
+	<forest_bandits_minimum_melee_level2>0</forest_bandits_minimum_melee_level2>
+	
+	<!-- 近战战斗机的最大数量（第二级）| 不要设置为低于0 -->
+	<forest_bandits_maximum_melee_level2>10</forest_bandits_maximum_melee_level2>
+	
+	<!-- 远程射手的最小数量（第一级）| 不要设置为低于0 -->
+	<forest_bandits_minimum_ranged_level1>2</forest_bandits_minimum_ranged_level1>
+	
+	<!-- 最大远程射手数量（第一级）| 不要设置为低于0 -->
+	<forest_bandits_maximum_ranged_level1>11</forest_bandits_maximum_ranged_level1>
+	
+	<!-- 远程射手的最小数量（第二级）| 不要设置为低于0 -->
+	<forest_bandits_minimum_ranged_level2>0</forest_bandits_minimum_ranged_level2>
+	
+	<!-- 最大远程射手数量（第二级）| 不要设置为低于0 -->
+	<forest_bandits_maximum_ranged_level2>6</forest_bandits_maximum_ranged_level2>
+	
+	<!-- 最小骑兵人数 不要设置为低于0 -->
+	<forest_bandits_minimum_cavalry>0</forest_bandits_minimum_cavalry>
+	
+	<!-- 最大骑兵人数| 不要设置为低于0 -->
+	<forest_bandits_maximum_cavalry>5</forest_bandits_maximum_cavalry>
+	
+	<!-- ***************************************************** -->
+	<!-- 沙漠强盗*************************************** -->
+	<!-- ***************************************************** -->
+	
+	<!-- 近战战士的最低人数（第一级）| 不要设置为低于0 -->
+	<bedouin_minimum_melee_level1>0</bedouin_minimum_melee_level1>
+	
+	<!-- 最大近战战士人数（第一级）| 不要设置为低于0 -->
+	<bedouin_maximum_melee_level1>11</bedouin_maximum_melee_level1>
+	
+	<!-- 近战战士的最低人数（第二级）| 不要设置为低于0 -->
+	<bedouin_minimum_melee_level2>0</bedouin_minimum_melee_level2>
+	
+	<!-- 近战战斗机的最大数量（第二级）| 不要设置为低于0 -->
+	<bedouin_maximum_melee_level2>8</bedouin_maximum_melee_level2>
+	
+	<!-- 远程射手的最小数量 不要设置为低于0 -->
+	<bedouin_minimum_ranged>0</bedouin_minimum_ranged>
+	
+	<!-- 最大远程射手数量| 不要设置为低于0 -->
+	<bedouin_maximum_ranged>7</bedouin_maximum_ranged>
+	
+	<!-- 最小骑兵人数（第一级）| 不要设置为低于0 -->
+	<bedouin_minimum_cavalry_level1>4</bedouin_minimum_cavalry_level1>
+	
+	<!-- 最大骑兵人数（第一级）| 不要设置为低于0 -->
+	<bedouin_maximum_cavalry_level1>17</bedouin_maximum_cavalry_level1>
+	
+	<!-- 骑兵最少人数（第二级）| 不要设置为低于0 -->
+	<bedouin_minimum_cavalry_level2>0</bedouin_minimum_cavalry_level2>
+	
+	<!-- 最大骑兵人数（第二级）| 不要设置为低于0 -->
+	<bedouin_maximum_cavalry_level2>6</bedouin_maximum_cavalry_level2>
+	
+	<!-- 骑射兵种的最低人数| 不要设置为低于0 -->
+	<bedouin_minimum_cavalry_archers>0</bedouin_minimum_cavalry_archers>
+	
+	<!-- 最大的骑射兵种数量| 不要设置为低于0 -->
+	<bedouin_maximum_cavalry_archers>7</bedouin_maximum_cavalry_archers>
+	
+	<!-- ***************************************************** -->
+	<!-- 草原强盗*************************************** -->
+	<!-- ***************************************************** -->
+	
+	<!-- 最小骑兵人数 不要设置为低于0 -->
+	<khuzait_minimum_cavalry>0</khuzait_minimum_cavalry>
+	
+	<!-- 最大骑兵人数| 不要设置为低于0 -->
+	<khuzait_maximum_cavalry>2</khuzait_maximum_cavalry>
+	
+	<!-- 骑射兵种的最低人数（第一级）| 不要设置为低于0 -->
+	<khuzait_minimum_cavalry_archers_level1>0</khuzait_minimum_cavalry_archers_level1>
+	
+	<!-- 最大的骑射兵种数量（第一级）| 不要设置为低于0 -->
+	<khuzait_maximum_cavalry_archers_level1>4</khuzait_maximum_cavalry_archers_level1>
+	
+	<!-- 最小骑射兵种数量（第二级）| 不要设置为低于0 -->
+	<khuzait_minimum_cavalry_archers_level2>0</khuzait_minimum_cavalry_archers_level2>
+	
+	<!-- 最大的骑射兵种数量（第二级）| 不要设置为低于0 -->
+	<khuzait_maximum_cavalry_archers_level2>4</khuzait_maximum_cavalry_archers_level2>
+	
+	<!-- 女性百分比 | 1 = 100% / 0.5 = 50% -->
+	<khuzait_female_percentage>0.5</khuzait_female_percentage>
+	
+</Settings>
